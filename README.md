@@ -9,7 +9,6 @@ This is a simple text editor that stores data into local storage.  This text edi
 ## Table of Contents
   *[Installation](#installation)<br/>
   *[Usage](#usage)<br/>
-  *[Contributing](#contributing)<br/>
 *[License](#license)<br/>
 
   ## Installation
@@ -17,11 +16,12 @@ This is a simple text editor that stores data into local storage.  This text edi
 To install this application you will clone the repository and then npm run start.
   ## Usage
 
+To use the deployed app goto the following link:
+
 [Heroku Link](https://jate-pwa-doompeck.herokuapp.com/)
 
-  ## Contributing
+To install the app locally click the install button.
 
-  N/A
 
 ## License
 
