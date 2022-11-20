@@ -27,7 +27,7 @@ module.exports = () => {
         title: 'JATE'
       }),
       // Service Worker
-      newInjectManifest({
+      new InjectManifest({
         swSrc: './src-sw.js',
         swDest: 'src-sw.js'
       }),
